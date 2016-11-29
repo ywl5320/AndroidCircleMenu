@@ -1,5 +1,6 @@
 # AndroidCircleMenu
 Android圆形旋转菜单
+####博客地址：http://blog.csdn.net/ywl5320/article/details/52449392
 ####实例效果
 ![image](https://github.com/wanliyang1990/AndroidCircleMenu/blob/master/imgs/circlemenu.gif)<br/>
 
